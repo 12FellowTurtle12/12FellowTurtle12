@@ -3,7 +3,7 @@
 - 🌱 I’m currently focusing on front-end developing
 - 💞️ I’m looking to collaborate on everything that will help me learn
 - 📫 You can reach me through my GitHub, I am not planning a coding career
-- 😓 Can only code in HTML, CSS, C-sharp and Python; pls no bully
+- 😓 Can only code in HTML, CSS, Javascript, C-sharp and Python; pls no bully
 
 <!---
 12FellowTurtle12/12FellowTurtle12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
