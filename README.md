@@ -2,7 +2,7 @@
 - 👀 I’m interested in science, arts, nature and literature
 - 🌱 I’m currently focusing on front-end developing
 - 💞️ I’m looking to collaborate on everything that will help me learn
-- 📫 You can reach me through my GitHub, I am not planning a coding career
+- 📫 You can reach me through my GitHub
 - 😓 Can only code in HTML, CSS, Javascript, C-sharp and Python; pls no bully
 
 <!---
